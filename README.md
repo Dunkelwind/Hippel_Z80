@@ -13,5 +13,5 @@
 ; die Interruptroutine braucht auch die Shadow-Register, also bei
 ; Bedarf noch pushen & popen !
 ;
-; dieser Player ist fr den ZX-Spectrum, wird aber bestimmt nach
+; dieser Player ist für den ZX-Spectrum, wird aber bestimmt nach
 ; einigen Anpassungen auf den Schneider CPC funktionieren
